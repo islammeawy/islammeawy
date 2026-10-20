@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **buidling AI full stack projects / saas  and mobile apps**  
-🌱 &nbsp;I'm currently learning **system design - ai engineering  - advanced web technologies &amp; architecture  &amp; scalable backend systems and devops **  
+🌱 &nbsp;I'm currently learning **system design - ai engineering  - advanced web technologies &amp; architecture **  
 👯 &nbsp;I'm looking to collaborate on **SWE internship - freelancing projects**  
 🤔 &nbsp;I'm looking for help with **scalling mobile apps**  
 💬 &nbsp;Ask me about **software engineering concepts like system design &amp; architecture  , databses , web architecture &amp;  technologies , ai engineering**  
